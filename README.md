@@ -1,2 +1,2 @@
 # pictures
-I use github to upload pictures to websites like SpaceHey.
+I use github to upload pictures to my webs.
